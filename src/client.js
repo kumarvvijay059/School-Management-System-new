@@ -6,7 +6,13 @@
 // export const supabase = createClient(supabaseUrl, supabaseKey)
 
 
+// import { createClient } from '@supabase/supabase-js'
+// const supabaseUrl = 'https://fistmooepsfbxgiowoog.supabase.co'
+// const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZpc3Rtb29lcHNmYnhnaW93b29nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTE4MjI0MTYsImV4cCI6MjAyNzM5ODQxNn0.-Aty9E0BJg-BU13-rXNAXRWKBWgOWqF6TN1Y_EYT08A'
+// export const supabase = createClient(supabaseUrl, supabaseKey)
+
 import { createClient } from '@supabase/supabase-js'
-const supabaseUrl = 'https://fistmooepsfbxgiowoog.supabase.co'
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZpc3Rtb29lcHNmYnhnaW93b29nIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTE4MjI0MTYsImV4cCI6MjAyNzM5ODQxNn0.-Aty9E0BJg-BU13-rXNAXRWKBWgOWqF6TN1Y_EYT08A'
+
+const supabaseUrl = 'https://tzfqkyqdphhtripbzfvr.supabase.co'
+const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR6ZnFreXFkcGhodHJpcGJ6ZnZyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTEyNzgzNzksImV4cCI6MjA2Njg1NDM3OX0._32OYqGTWXWvXrhEKRwOBy6JwbPpujB5aD4eJ0VODis'
 export const supabase = createClient(supabaseUrl, supabaseKey)
